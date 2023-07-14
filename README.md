@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thekangaroofactory&layout=compact&theme=dark&exclude_repo=Website-kangaroo-ai)](https://github.com/thekangaroofactory/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekangaroofactory&layout=compact&theme=dark&exclude_repo=Website-kangaroo-ai)
 
 <!--
 **thekangaroofactory/thekangaroofactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
