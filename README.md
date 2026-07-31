@@ -1,7 +1,7 @@
 
 # Welcome to TheKangarooFactory
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekangaroofactory&layout=compact&theme=dark&exclude_repo=Website-kangaroo-ai)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thekangaroofactory&layout=compact&theme=dark&exclude_repo=Website-kangaroo-ai)
 
 <!--
 **thekangaroofactory/thekangaroofactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
